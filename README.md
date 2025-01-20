@@ -4,6 +4,7 @@
 
 Newest Version
 
-0.0.3 download at release page https://github.com/xianrenak/wildtype/releases
+0.0.3:
+download at release page https://github.com/xianrenak/wildtype/releases
 
 Online version: https://xianrenak.itch.io/wildtype
