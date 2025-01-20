@@ -1,6 +1,6 @@
 # WildType
 
-反馈问题： 
+## 反馈问题： 
 
 https://github.com/xianrenak/wildtype/issues
 
@@ -10,7 +10,7 @@ https://github.com/xianrenak/wildtype/issues
 
 *Changed the English name to make it consistent with Chinese*
 
-Newest Version
+## Newest Version
 
 0.0.3:
 
