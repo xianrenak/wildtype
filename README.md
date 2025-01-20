@@ -1,4 +1,4 @@
-# WildType
+# 狂野打字  WildType
 *Changed the English name to make it consistent with Chinese*
 
 ## 反馈问题： 
