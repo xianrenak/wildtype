@@ -5,7 +5,7 @@
 
 https://github.com/xianrenak/wildtype/issues
 
-反馈前可以使用 Ctrl+R debug 
+反馈前可以使用 Ctrl+R debug 显示 debug信息
 
 然后看能不能复现问题然后截屏， 方便找出问题
 
